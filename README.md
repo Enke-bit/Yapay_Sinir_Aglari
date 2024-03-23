@@ -1,0 +1,3 @@
+- Yapay sinir ağlarını kullanarak örnek üzerinden bir model oluşturdum.
+- Modeli geliştirirken kulandığım data ambarınıda ekliyorum.
+- Modeli kurma işleminden sonra hiper paremetre ayarlarını kulanım modeli tunned etme işleminide yaptım. 
